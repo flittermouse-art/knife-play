@@ -5,3 +5,4 @@ exports/**
 .fslckout
 .git/**
 .gitignore
+.mirror_state
