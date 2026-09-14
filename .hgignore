@@ -1,8 +1,11 @@
 syntax: glob
 *~
 exports/**
+.clustta**
 *.fossil
+.fossil-settings/**
 .fslckout
 .git/**
 .gitignore
+.lore**
 .mirror_state
