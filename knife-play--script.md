@@ -119,7 +119,9 @@ title page:
 
 panel 2:
 
-- 2026  |  Intellectual Reserve, Inc. // san-diego-california-temple-72075.jpg
+- 2026 | Intellectual Reserve, Inc. // san-diego-california-temple-72075.jpg
+- 2026 | Intellectual Reserve, Inc. // san-diego-california-temple-72093.jpg
+- 2 September 2026 | Carollee Esparza. "Taken at 6:20 a.m. with the sunrise" // san-diego-california-temple-74965.jpg
 
 panel 3:
 
